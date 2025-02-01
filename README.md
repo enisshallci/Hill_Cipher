@@ -8,4 +8,5 @@ The Hill Cipher is a polygraphic substitution cipher that encrypts blocks of tex
 
 ### Files:
 
-- `HilCipherImplementation.java`: Contains the implementation of the cipher (encryption and decryption) using Java.
+- `HilCipherImplementation.java`: Contains the implementation of the cipher (encryption and decryption 2x2) using Java.
+- `HillCipher.cpp`: Contains the implementation of the cipher (encryption and decryption 3x3) using C++.
